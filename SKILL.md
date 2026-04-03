@@ -1,6 +1,6 @@
 ---
 name: videoinu
-version: "1.0.0"
+version: "1.0.1"
 description: "Videoinu platform skill — manage projects via Graphs (canvases), upload/download files, chat with AI Agents, and run Workflows. Use when: user mentions Videoinu, Graph management, uploading files to Videoinu, agent chat on Videoinu, or running Videoinu workflows."
 metadata:
   {
